@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Movie theater
+GenericName=Movie theater
+Comment=Movie theater
+Exec=python3 /data/home/Documents/Coding/Movie_library/interface.py
+Icon=/data/home/Documents/Coding/Movie_library/movie-theater.png
+Terminal=false
+Categories=movie
+Keywords=movie; library; database; viewer; film
